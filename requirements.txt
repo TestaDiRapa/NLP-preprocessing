@@ -1,0 +1,4 @@
+nltk
+gensim
+bs4
+treetaggerwrapper
